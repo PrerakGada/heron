@@ -24,6 +24,11 @@ claude plugin marketplace add PrerakGada/heron && claude plugin install heron@he
 
 Then restart Claude Code, or run `/reload-plugins` in an open session.
 
+**In the Claude desktop app** (the Code tab), there is no terminal needed: open a Code session, paste
+*"Run this in the shell: "* followed by the command above, and approve it. Then start a new session.
+Heron draws in the Code tab like it does in the terminal; the desktop's plain chat does not run Claude Code, so
+Heron has nothing to draw there.
+
 Heron needs a recent Claude Code with mod support (`claude update`).
 
 ## Update and remove
