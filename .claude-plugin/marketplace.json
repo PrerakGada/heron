@@ -1,0 +1,11 @@
+{
+  "name": "heron-mod",
+  "owner": { "name": "Prerak Gada" },
+  "plugins": [
+    {
+      "name": "heron",
+      "source": "./",
+      "description": "Signal, not noise: prompts and answers in outlined boxes; working steps fold into one live line"
+    }
+  ]
+}

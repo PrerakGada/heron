@@ -1,0 +1,1 @@
+{ "name": "heron", "version": "0.1.0", "author": { "name": "Prerak Gada" }, "description": "Signal, not noise: your prompts and Claude's answers in outlined boxes; working steps fold into one live line", "types": "./types/index.d.ts" }
